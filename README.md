@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Danilo 👋
-- 🌱 Estudando Java e kotlin
+- 🐱‍🏍 Estudando Java e kotlin
+- ✨ Android Studio 
 - 📫 Contate-me no e-mail: danilo3648@hotmail.com
 
 <div align="center">
