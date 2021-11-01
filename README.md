@@ -1,6 +1,4 @@
 ### Olá! Eu sou o Danilo 👋
-
-- 🔭 Hoje eu trabalho em uma multinacional japonesa
 - 🌱 Estudando Java e kotlin
 - 📫 Contate-me no e-mail: danilo3648@hotmail.com
 
