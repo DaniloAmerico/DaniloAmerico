@@ -1,4 +1,4 @@
-### Olá! Eu sou o Danilo 👋
+### Olá! Eu sou o Danilo Américo 👋
 - 🐱‍🏍 Estudando Java e kotlin
 - ✨ Android Studio 
 - 📫 Contate-me no e-mail: danilo3648@hotmail.com
