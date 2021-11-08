@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Danilo Américo 👋
 - 🐱‍🏍 Estudando Java e kotlin
 - ✨ Android Studio 
-- 📫 Contate-me no e-mail: danilo3648@hotmail.com
+- 📫 Contate-me no e-mail: danilo.americo.costa@outlook.com
 
 <div align="center">
   <a href="https://github.com/DaniloAmerico">
